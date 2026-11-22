@@ -1,2 +1,2 @@
-# project-auto-showcase
-Give your environment eyes 👀
+# project-auto
+> Give your environment eyes 👀
